@@ -1,0 +1,137 @@
+@font-face {
+  font-family: 'partin';
+  src:  url('../fonts/partin.eot?lcbrb3');
+  src:  url('../fonts/partin.eot?lcbrb3#iefix') format('embedded-opentype'),
+    url('../fonts/partin.ttf?lcbrb3') format('truetype'),
+    url('../fonts/partin.woff?lcbrb3') format('woff'),
+    url('../fonts/partin.svg?lcbrb3#partin') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="partin-"], [class*=" partin-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'partin' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.partin-politics:before {
+  content: "\e900";
+}
+.partin-poll:before {
+  content: "\e901";
+}
+.partin-audience:before {
+  content: "\e902";
+}
+.partin-handshake:before {
+  content: "\e903";
+}
+.partin-agreement:before {
+  content: "\e904";
+}
+.partin-speech:before {
+  content: "\e905";
+}
+.partin-speech-1:before {
+  content: "\e906";
+}
+.partin-vote-badge-for-political-elections:before {
+  content: "\e907";
+}
+.partin-candidates:before {
+  content: "\e908";
+}
+.partin-donation:before {
+  content: "\e909";
+}
+.partin-elections:before {
+  content: "\e90a";
+}
+.partin-speech1:before {
+  content: "\e90b";
+}
+.partin-speech-11:before {
+  content: "\e90c";
+}
+.partin-vote:before {
+  content: "\e90d";
+}
+.partin-debate:before {
+  content: "\e90e";
+}
+.partin-vote-1:before {
+  content: "\e90f";
+}
+.partin-balance:before {
+  content: "\e910";
+}
+.partin-politician:before {
+  content: "\e911";
+}
+.partin-capitol:before {
+  content: "\e912";
+}
+.partin-vote1:before {
+  content: "\e913";
+}
+.partin-campaign:before {
+  content: "\e914";
+}
+.partin-capitol-1:before {
+  content: "\e915";
+}
+.partin-ballot:before {
+  content: "\e916";
+}
+.partin-politician1:before {
+  content: "\e917";
+}
+.partin-balance1:before {
+  content: "\e918";
+}
+.partin-vote-11:before {
+  content: "\e919";
+}
+.partin-business-and-finance:before {
+  content: "\e91a";
+}
+.partin-vote-2:before {
+  content: "\e91b";
+}
+.partin-fist:before {
+  content: "\e91c";
+}
+.partin-money:before {
+  content: "\e91d";
+}
+.partin-dollar:before {
+  content: "\e91e";
+}
+.partin-pamphlet:before {
+  content: "\e91f";
+}
+.partin-ballot1:before {
+  content: "\e920";
+}
+.partin-money-1:before {
+  content: "\e921";
+}
+.partin-support:before {
+  content: "\e922";
+}
+.partin-24-hours:before {
+  content: "\e923";
+}
+.partin-wordpress:before {
+  content: "\e924";
+}
